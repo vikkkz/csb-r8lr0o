@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://vikkkz.github.io/csb-r8lr0o/static/css/main.318771d0.chunk.css",
+    "main.js": "https://vikkkz.github.io/csb-r8lr0o/static/js/main.46751ebb.chunk.js",
+    "main.js.map": "https://vikkkz.github.io/csb-r8lr0o/static/js/main.46751ebb.chunk.js.map",
+    "runtime-main.js": "https://vikkkz.github.io/csb-r8lr0o/static/js/runtime-main.f42f8836.js",
+    "runtime-main.js.map": "https://vikkkz.github.io/csb-r8lr0o/static/js/runtime-main.f42f8836.js.map",
+    "static/css/2.fe708519.chunk.css": "https://vikkkz.github.io/csb-r8lr0o/static/css/2.fe708519.chunk.css",
+    "static/js/2.d9d42d1b.chunk.js": "https://vikkkz.github.io/csb-r8lr0o/static/js/2.d9d42d1b.chunk.js",
+    "static/js/2.d9d42d1b.chunk.js.map": "https://vikkkz.github.io/csb-r8lr0o/static/js/2.d9d42d1b.chunk.js.map",
+    "index.html": "https://vikkkz.github.io/csb-r8lr0o/index.html",
+    "static/css/2.fe708519.chunk.css.map": "https://vikkkz.github.io/csb-r8lr0o/static/css/2.fe708519.chunk.css.map",
+    "static/css/main.318771d0.chunk.css.map": "https://vikkkz.github.io/csb-r8lr0o/static/css/main.318771d0.chunk.css.map",
+    "static/js/2.d9d42d1b.chunk.js.LICENSE.txt": "https://vikkkz.github.io/csb-r8lr0o/static/js/2.d9d42d1b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f42f8836.js",
+    "static/css/2.fe708519.chunk.css",
+    "static/js/2.d9d42d1b.chunk.js",
+    "static/css/main.318771d0.chunk.css",
+    "static/js/main.46751ebb.chunk.js"
+  ]
+}
